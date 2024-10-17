@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import { TheCatAPI } from "@thatapicompany/thecatapi";
-const ACCESS_KEY = "live_rCEyS2KWICNxPHEqyNk7upZRv5J3Plc15ga8EB1hcIG7rwsvmaZ7PtNfNvkbLC0r";
+const ACCESS_KEY = "INSERT YOUR OWN ACCESS KEY HERE";
 
 function App() {
   const [catData, setCatData] = useState(null);
