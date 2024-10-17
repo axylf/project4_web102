@@ -1,10 +1,10 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - *Cat Stuff*
 
-Submitted by: **Your Name Here**
+Submitted by: **Axyl Fredrick**
 
-This web app: **insert description**
+This web app: **Cat Stuff**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
